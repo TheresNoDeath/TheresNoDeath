@@ -1,3 +1,4 @@
 # TheresNoDeath
 
-[![GameJolt]([https://cdn.simpleicons.org/gamejolt/ffffff](https://img.icons8.com/?size=100&id=35675&format=png&color=000000))](https://gamejolt.com/@TheresNoDeath)
+[![GameJolt](https://img.shields.io/badge/Game%20Jolt?style=for-the-badge&logo=gamejolt&logoColor=white&logoSize=20&link=https%3A%2F%2Fgamejolt.com%2F%40TheresNoDeath
+)](https://gamejolt.com/@TheresNoDeath)
